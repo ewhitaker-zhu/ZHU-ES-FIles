@@ -1,0 +1,251 @@
+vZNY Alias File
+Version: 1905.0
+File updated: April 19th, 2019
+By: Amin Abrahem
+
+.open $radioname() is now open 
+.close $radioname($1) is ceasing operation no further ATC available monitor unicom 122.8
+.closeC $radioname() is ceasing operation contact $radioname($1) frequency $freq($1) for further ATC
+.step $radioname() stepping away. Will be back shortly
+.advise .msg $aircraft squawk $squawk. Advise $radioname() $freq() on 10 mile final, planed runway and gate assignment at $arr
+.advisens .msg $aircraft Advise $radioname() $freq() on 10 mile final, planed runway and gate assignment at $arr
+
+
+##########################################################
+CLEARANCE DELIVERY
+##########################################################
+.cv cleared to $arr via radar vectors $1, then as filed. Maintain $2, expect $cruise 10 minutes after Departure. Departure frequency $3, squawk $squawk.
+.cd cleared to $arr, $1 Departure, radar vectors $2, then as filed. Maintain $3, expect $cruise 10 minutes after Departure. Departure frequency $4, squawk $squawk.
+.cdr cleared to $arr, $1 Departure, radar vectors $2, then as filed. Climb via SID, top altitude $3, expect $cruise 10 minutes after Departure. Departure frequency $4, squawk $squawk.
+.cde cleared to $arr, $1 Departure, radar vectors $2, then as filed. Climb via SID, except maintain $3, expect $cruise 10 minutes after Departure. Departure frequency $4, squawk $squawk.
+.cc cleared to $arr, $1 Departure, $2 climb, radar vectors $3, then as filed. Maintain $4, expect $cruise 10 minutes after Departure. Departure frequency $5, squawk $squawk.
+.ccr cleared to $arr, $1 Departure, $2 climb, radar vectors $3, then as filed. Climb via SID, top altitude $4, expect $cruise 10 minutes after Departure. Departure frequency $5, squawk $squawk.
+.cce cleared to $arr, $1 Departure, $2 climb, radar vectors $3, then as filed. Climb via SID, except maintain $4, expect $cruise 10 minutes after Departure. Departure frequency $5, squawk $squawk.
+.ct cleared to $arr, $1 Departure, $2 transition, then as filed. Maintain $3, expect $cruise 10 minutes after Departure. Departure frequency $4, squawk $squawk.
+.ctr cleared to $arr, $1 Departure, $2 transition, then as filed. Climb via SID, top altitude $3, expect $cruise 10 minutes after Departure. Departure frequency $4, squawk $squawk.
+.cte cleared to $arr, $1 Departure, $2 transition, then as filed. Climb via SID, except maintain $3, expect $cruise 10 minutes after Departure. Departure frequency $4, squawk $squawk.
+.cvt cleared to $arr, $1 Departure, radar vectors $2, $3 transition, then as filed. Maintain $4, expect $cruise 10 minutes after Departure. Departure frequency $5, squawk $squawk.
+.cvtr cleared to $arr, $1 Departure, radar vectors $2, $3 transition, then as filed. Climb via SID, top altitude $4, expect $cruise 10 minutes after Departure. Departure frequency $5, squawk $squawk.
+.cvte cleared to $arr, $1 Departure, radar vectors $2, $3 transition, then as filed. Climb via SID, except maintain $4, expect $cruise 10 minutes after Departure. Departure frequency $5, squawk $squawk.
+.ctv cleared to $arr, $1 Departure, $2 transition, radar vectors $3, then as filed. Maintain $4, expect $cruise 10 minutes after Departure. Departure frequency $5, squawk $squawk.
+.ctvr cleared to $arr, $1 Departure, $2 transition, radar vectors $3, then as filed. Climb via SID, top altitude $4, expect $cruise 10 minutes after Departure. Departure frequency $5, squawk $squawk.
+.ctve cleared to $arr, $1 Departure, $2 transition, radar vectors $3, then as filed. Climb via SID, except maintain $4, expect $cruise 10 minutes after Departure. Departure frequency $5, squawk $squawk.
+.read readback correct, push and start at your discretion, expect runway $1 for Departure, advise ready to taxi, $dep altimeter $altim($dep)
+.clreq clearance on request, standby, number $1
+
+##########################################################
+GROUND
+##########################################################
+.push pushback approved, tail $1, advise ready to taxi
+.pushd push and start at your discretion, advise ready to taxi
+.taxi runway $1, taxi via
+.taxip taxi to parking via
+.hs hold short runway $1
+.cross cross runway $1 at $2
+
+##########################################################
+TOWER
+##########################################################
+.lu runway $1, line up and wait
+.to wind $wind($dep), runway $1, cleared for takeoff
+.tohdg fly heading $1, wind $wind($dep), runway $deprwy, cleared for takeoff
+.torwy fly runway heading, wind $wind($dep), runway $1, cleared for takeoff
+.toclimb fly the $1 climb, wind $wind($dep), runway $deprwy, cleared for takeoff
+.todep fly the $1 Departure, wind $wind($dep), runway $deprwy, cleared for takeoff
+.land wind $wind($arr), runway $1, cleared to land
+.turb caution wake turbulence
+.intrail $1 miles in-trail of a $2
+
+##########################################################
+RADAR IDENTIFICATION
+##########################################################
+.sq squawk $squawk
+.sn squawk normal
+.modec ensure transponder is on mode C (altitude reporting)
+.rc radar contact
+.rca radar contact, say altitude leaving
+.rcb radar contact $dist($1) miles $bear($1) of $1 at $calt
+
+##########################################################
+VECTORING
+##########################################################
+.tl turn left heading $1
+.tr turn right heading $1
+.fh fly heading $1
+.fph fly present heading
+.cm climb and maintain $1
+.dm descend and maintain $1
+.meter $1 altimeter $altim($1)
+.dec cross $1 at and maintain $2
+.decm cross $1 at and maintain $2, $3 altimter $altim($3)
+.decs cross $1 at and maintain $2 at $3 knots
+.decsm cross $1 at and maintain $2 at $3 knots, $4 altimeter $altim($4)
+.spd maintain $1 knots
+.spdm maintain maximum forward speed
+.spds maintain slowest practical speed
+.spdn resume normal speed
+.spdr say indicated airspeed
+.mach maintain mach .$1
+.machr say mach number
+.pdct proceed direct $1
+.cdct cleared direct $1, rest of route unchanged
+.join join $1 and resume own navigation
+
+##########################################################
+APPROACH & Departure
+##########################################################
+.ils1 $dist($1) miles from $1, fly heading $2, maintain $3 until established on localizer, cleared ILS runway $4 approach
+.ils2 $dist($1) miles from $1, cross $1 at or above $2, cleared ILS runway $3 approach
+.app cross $1 at or above $2, cleared $3 runway $4 approach $arr
+.loc intercept runway $1 localizer
+.est report established on the final approach course
+.visual $arr at your $oclock($arr) and $dist($arr) miles, report in sight
+.visclr cleared visual approach runway $1 $arr
+.exp expect $1 runway $deprwy approach, $arr altimeter $altim($arr)
+.dep depart $1 heading $2, vectors $3 runway $4 final approach course, $arr altimeter $altim($arr)
+.vtf vectors to final approach course
+.rle released for Departure, time now $1Z, clearance void if not off by $2Z. Report airborne this frequency.
+.adv no known or observed traffic between you and $arr, radar services terminated, change to advisory frequency approved. Report IFR cancellation or missed approach this frequency.
+.cancel IFR cancellation received, squawk and maintain VFR, frequency change approved, take care
+
+##########################################################
+TRANSFER OF CONTROL
+##########################################################
+.ho contact $radioname($1) on frequency $freq($1)
+.clg $1 Ground is not online, change to advisory frequency approved, take care
+.clt $1 Tower is not online, change to advisory frequency approved, take care
+.cld $1 Departure is not online, change to advisory frequency approved, take care
+.cla leaving my airspace, $1 Approach is not online, radar services terminated, change to advisory frequency approved, take care
+.clc leaving my airspace, $1 Center is not online, radar services terminated, change to advisory frequency approved, take care
+.clr leaving my airspace, New York Radar is not online, radar services terminated, change to advisory frequency approved, take care
+.unicom no further ATC is available, monitor UNICOM on frequency 122.8, take care
+.signoff I am going to be signing off shortly, radar services terminated, change to advisory frequency approved, thanks for flying!
+
+##########################################################
+OCEANIC
+##########################################################
+.pass pass your message
+.eta say ETA over $1, requested flight level and mach number in non-radar airspace
+.oc maintain $cruise and mach .$1
+.oca from $1 maintain $cruise and mach .$2, cross $1 not before $3Z
+.ocb from $1 maintain $cruise and mach .$2, cross $1 not after $3Z
+.pr New York Radio copies $uc($1) at $2Z. FL$3, mach .$4. Estimating $uc($5) at $6Z, $uc($7) thereafter.
+.prf please give your position report as follows: [LAST FIX CROSSED] at [TIME CROSSED], [ALTITUDE], [MACH], estimating [NEXT FIX] at [TIME], [NEXT FIX] thereafter
+.prt please file your position report via text
+.lvc leaving New York Radio airspace, contact $radioname($1) on frequency $freq($1), take care
+.lvu leaving New York Radio airspace, no further ATC is available, frequency change to UNICOM 122.8 is approved. Enjoy the rest of your flight!
+.lvr leaving radar service area, radar services terminated. Standing by to receive your position report.
+
+##########################################################
+OTHER COMMUNICATION
+##########################################################
+.newbzny Welcome to New York ARTCC! Please visit our website (https://nyartcc.org/) and browse our pilot resources pages for all the latest news and information regarding our sector. Please enjoy your stay and welcome to ZNY!
+.newbprc Welcome to the VATSIM network - a realistic environment that simulates real world air traffic control! Before you begin your VATSIM career, please direct your attention to the Pilot Resource Center, which outlines the code of conduct as well as the basic knowledge pilot's are expected to become familiar with: https://www.vatsim.net/pilot-resource-centre. Please enjoy your stay here in ZNY, and we look foward to seeing you in the future, after you have read through the basic material. Blue Skies!
+.newbbusy Welcome aboard the VATSIM network! While I would love to answer your questions and help you become familiar with this realistic environment, my work load is quite large at this time. Please visit the Pilot Resource Center located at: https://www.vatsim.net/pilot-resource-centre. Thank you for your cooperation and understanding!
+.coc I would like to kindly ask that you visit the Pilot Resource Center (https://www.vatsim.net/pilot-resource-centre) and pay close attention to the Code of Conduct with which pilot's on the network are expected to abide. Together, both pilot and controller, can work towards creating a respectful and courteous environment. Thank you for your cooperation and understanding!
+.autospeed .msg $aircraft It looks as if you are moving very slowly. This is typically caused by a slow sim rate in X-Plane. To fix this, I suggest the autospeed plugin, available at: http://vats.im/autospeed
+.rwyspawn .msg $aircraft Hello, it appears you have connected on an active runway. Please disconnect, move yourself to a non-movement area (such as a ramp or gate), and reconnect.
+.twyspawn .msg $aircraft Hello, it appears you have connected on an active taxiway. Please disconnect, move yourself to a non-movement area (such as a ramp or gate), and reconnect. 
+
+##########################################################
+Per Departure Clearances
+##########################################################
+.pdc .msg $aircraft Cleared to $arr radar vectors to $1 then as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.rr .msg $aircraft I have a reroute for you call me over voice when ready to copy.
+
+# NEWARK (KEWR)
+.cewr .msg $aircraft Cleared to $arr EWR4 radar vectors to $1 then as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cewr4 .msg $aircraft Cleared to $arr EWR4 radar vectors to $1. climb via sid except maintain $temp. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cewrni .msg $aircraft Cleared to $arr EWR4 fly heading 040, at 4 dme turn left heading 290, radar vectors to $1 then as filed. maintain 2000. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cportt .msg $aircraft Cleared to $arr PORTT4 $1 transition as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.clib .msg $aircraft Cleared to $arr LIB4 $1 climb radar vectors to $2 as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+
+# LA GUARDIA (KLGA)
+.clga .msg $aircraft Cleared to $arr LGA5 Departure radar vectors to $1 then as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy
+.clgah .msg $aircraft Cleared to $arr LGA5 Departure fly heading $1 radar vectors to $2 then as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy
+.clgac .msg $aircraft Cleared to $arr LGA5 Departure $1 climb via sid radar vectors to $2 then as filed Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.ctnnis .msg $aircraft Cleared to $arr TNNIS6 Departure climb via sid. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cgldmn .msg $aircraft Cleared to $arr GLDMN5 Departure climb via sid. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cjutes .msg $aircraft Cleared to $arr JUTES3 Departure climb via sid. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.chopea .msg $aircraft Cleared to $arr HOPEA3 Departure climb via sid. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cnthns .msg $aircraft Cleared to $arr NTHNS4 Departure climb via sid. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+
+# KENNEDY (KJFK)
+.cjfk .msg $aircraft Cleared to $arr JFK5 Departure radar vectors to $1 then as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cjfkc .msg $aircraft Cleared to $arr JFK5 Departure $1 climb radar vectors to $2 then as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cjfki .msg $aircraft Cleared to $arr JFK5 Departure Idlewild climb radar vectors to $1 climb as filed. maintain 2000 expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cskorr .msg $aircraft Cleared to $arr SKORR4 Departure $1 transition climb via sid. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cdeezz .msg $aircraft Cleared to $arr DEEZZ5 Departure radar vectors to $1 $2 transition. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cdeezzc .msg $aircraft Cleared to $arr DEEZZ5 Departure $1 transition climb via sid. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cbette .msg $aircraft Cleared to $arr BETTE6 Departure radar vectors to $1 then as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cbetteh .msg $aircraft Cleared to $arr BETTE6 Departure fly heading $1 radar vectors to $2 then as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cbettec .msg $aircraft Cleared to $arr BETTE6 Departure $1 climb radar vectors to $2 climb as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cgreki .msg $aircraft Cleared to $arr GREKI6 Departure radar vectors to $1 then as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cgrekij .msg $aircraft Cleared to $arr GREKI6 Departure vector to $1 JUDDS Transition as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cgrekic .msg $aircraft Cleared to $arr GREKI6 Departure $1 climb radar vectors to $2 climb as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cgrekih .msg $aircraft Cleared to $arr GREKI6 Departure fly heading $1  radar vectors to $2 then as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cmerit .msg $aircraft Cleared to $arr MERIT6 Departure radar vectors to $1 then as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cmeritp .msg $aircraft Cleared to $arr MERIT6 Departure vector to $1 PUT Transition as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cmeritc .msg $aircraft Cleared to $arr MERIT6 Departure $1 climb radar vectors to Merit as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cmerith .msg $aircraft Cleared to $arr MERIT6 Departure fly heading $1 radar vectors to $2 then as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.chapie .msg $aircraft Cleared to $arr HAPIE6 Departure radar vectors to $1 then as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.chapiec .msg $aircraft Cleared to $arr HAPIE6 Departure $1 climb radar vectors to Merit as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.chapieh .msg $aircraft Cleared to $arr HAPIE6 Departure fly heading $1 radar vectors to $2 then as filed. maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+
+# PHILADELPHIA (KPHL)
+.cphl .msg $aircraft Cleared to $arr PHL2 Departure radar vectors to $1 maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy. Push your discretion advise short of spot $3.
+
+# TETERBORO (KTEB)
+.cteb .msg $aircraft Cleared to $arr TEB2 Departure radar vectors to $1 maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.ctebc .msg $aircraft Cleared to $arr TEB2 Departure climb via sid  radar vectors to $1 maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cruudy .msg $aircraft Cleared to $arr RUUDY6 Departure climb via sid radar vectors to $1 maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+
+# WESTCHESTER (KHPN)
+.chpn  .msg $aircraft Cleared to $arr HPN7 Departure climb via sid radar vectors to $1 maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+.cprop .msg $aircraft Cleared to $arr PROP1 Departure climb via sid radar vectors to $1 maintain $temp expect $cruise in 10 minutes. Departure $freq($2) Squawk $squawk. Expect $deprwy.
+
+##########################################################
+RADAR SCOPE COMMANDS
+##########################################################
+.phlvis .vis KPHL KACY KWRI KABE
+.phlwx .qd KILG KPNE KTTN KPHL
+.n90vis .vis KABE KHTO KWRI KSWF
+.n90wx .qd KJFK KFRG KLGA KHPN KDXR KISP KBDR KFOK KHVN KOXC KEWR KCDW KMMU KTEB KSWF KPOU
+.znyvis .vis KELM KMDT KHTO KACY
+.znywx .qd KJFK KFRG KLGA KHPN KISP KBDR KEWR KMMU KTEB KSWF KABE KITH KWRI KPHL KAVP KMDT KIPT KBWI KDCA KIAD
+.zwyvis .vis GECAL 3856N 2251N 3644N
+.zwyvis2 .vis BALTN 3960N 2251N 3644N
+
+.ewrgates .ff BREZY GREKI MERIT BAYYS CMK BDR WAVEY DIXIE WHITE COL BIGGY LANNA PARKE SBJ BWZ ELIOT COATE NEION HAAYS GAYEL SAX
+.jfkgates .ff GREKI MERIT BAYYS BDR BETTE HAPIE SHIPP WAVEY DIXIE WHITE RBV RNGRR ARD SBJ LANNA SAX COATE NEION HAAYS GAYEL
+.lgagates .ff GREKI MERIT BAYYS BDR CMK DPK SHIPP WAVEY DIXIE WHITE BIGGY LANNA PARKE SBJ BWZ ELIOT NYACK SAX COATE NEION HAAYS GAYEL
+.phlgates .ff FJC ARD PTW RBV MXE STOEN DQO DITCH RUUTH CYN VCN OOD ENO
+.libgates .ff HIDAL STUBY BRISS IGN PWL MOONI HFD LOVES VALRE WHITE BIGGY LANNA COATE HUO WEARD
+.n90gates .ff BREZY GREKI MERIT BAYYS CMK BDR WAVEY DIXIE WHITE COL BIGGY LANNA PARKE SBJ BWZ ELIOT COATE NEION HAAYS GAYEL SAX DPK SHIPP NYACK BETTE HAPIE RBV RNGRR ARD HIDAL STUBY BRISS IGN PWL MOONI HFD LOVES VALRE HUO WEARD
+.znygates .ff STEFE SOMTO DYLIN CRANK SWEET LOUIE BRAND HNK BDL BAF SAX HAYED HANAA OWENZ CYN CYPER BASYE DAVYS KORRY MARRC VIBES BEUTY PETER NOBBI OWENZ CAMRN ZIGGI HOGGS LENDY HARTY LOVES TRAIT CCC ROBER COFAX BUNTS VCN HARVA CORLE LECOR SPUDS ANMAR JAYBO GARED TERRI GUNNI GIMGE BRIGS WIPOR DPK LHY RAGER BOUNO SOUND GWENY WESTO RICED DNY VALRE ILENE WACKI REGLE LVZ MUGZY RADDS SIE NEWES BELAY MULRR TRISH NUGGY SKILS OWENZ
+.bdagates .ff BALOO LAZEY NUMBR WINGZ PIREX GECAL SHEIL BALTN ANTIG JIMAC ENAPI DASER BOVIC ANVER
+.reportfix1 .ff BOBTU JEBBY NOVOK MUNEY SELEM DOVEY KAYYT JOBOC DRYED SOORY VITOL SAILE SLATN
+.reportfix2 .ff AZEZU OKONU MARIG KINGG SQUAD SAVIK RESQU ROLLE LEXAD PAEPR VEGAA AVAST LACKS
+.reportfix3 .FF ATUGI SKPPR DARUX KINER SAUCR NETSS ONGOT ZZTOP PERDO BEXUM LUNKR JAROM LOMPI
+.reportfix4 .ff BANNK GALVN GRAMN TASNI BOREX DUPOX ILIDO VESRA RABAL VINSO BRKZZ CARAC GAYBL
+.reportfix5 .ff NUBUS PRCHA TARMO MACOR RKDIA KAVAX FIVZE SIFEN AYTTE AMENO RAFIN VODOR
+.coodfix .ff OWENZ LEOES JETER OUTES TOMMZ HANRI OTTNG JAINS UKOKA SNAGY SUMRS MAYPL BROOM CNNOR GRATX MILLE CANEE LETON LNHOM LAMER LUCTI MLLER WATRS KINCH HANCY CHEDR KEEKA OPAUL SOCCO DAWIN OBIKE DABAK BUTUX DOPHN GRUPI ELERI
+
+##########################################################
+URL OPENER COMMANDS
+##########################################################
+.sop .openurl https://nyartcc.org/znywiki/index.php/$uc($1)_SOP
+.prd .openurl http://nyartcc.org/prd?from=$1&to=$2
+.airnav .openurl http://www.airnav.com/airport/$1
+.charts .openurl http://nyartcc.org/charts/do/$1
+.notams .openurl https://notams.aim.faa.gov/notamSearch/nsapp.html#/
+.weather .openurl http://www.aviationweather.gov
+.suffixes .openurl http://nyartcc.org/znywiki/index.php?title=Aircraft_Equipment_Suffixes
+.forums .openurl http://www.nyartcc.org/forum/
+.skyvector .openurl http://skyvector.com/
+
+##########################################################
+STICKY NOTES (VRC ONLY)
+##########################################################
+.speeds .sticky Speed Restriction Minima| |>FL390 prohibited without consent|FL280-10,000' -- 250 knots (0.6-0.65 mach)|Arriving Jets < 10,000' -- 210 knots|Arriving Jets < 10,000' (within 20 miles) -- 170 knots|Arriving Props < 10,000' -- 200 knots|Arriving Props < 10,000' (within 20 miles) -- 150 knots|Departing Jets -- 230 knots|Departing Props -- 150 knots|Heliocopters -- 60 knots
+.wake .sticky Wake Turbulence Separation| |Departures| |2 minutues -- Small/large behind a heavy jet (same threshold)|3 minutes -- Small/larget behind a heavy jet (intersection)| |Enroute| |Heavy jet behind heavy jet -- 4 miles|Large or heavy behind B757 -- 4 miles|Small behind B757 -- 5 miles|Small or large aircraft behind heavy jet -- 5 miles|Super behind super -- 4 miles|Heavy jet behind super -- 6 miles|Large behind super -- 8 miles|Small behind super -- 10 miles| |Arrival (small only)| |Small aircraft landing behind super -- 10 miles|Small aircraft landing behind heavy jet -- 6 miles|Small aircraft landing behind B757 -- 5 miles|Small aircraft landing behind large aircraft -- 4 miles| |Categories Defined| |Super -- A380 only|Heavy -- AOB 300,000 lbs.|Large -- 41,000-299,999 lbs.|Small -- < 41,000 lbs

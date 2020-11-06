@@ -1,0 +1,82 @@
+DisplayTypeName:
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\micha\Documents\VRC\ZHU_SECTOR_2005-1.sct2
+SECTORTITLE:ZHU_SECTOR_2005-1.sct2
+ARTCC boundary:_CTR:
+ARTCC boundary:ABQ_CTR:
+ARTCC boundary:FTW_CTR:
+ARTCC boundary:MEM_CTR:
+ARTCC boundary:MTY_CTR:
+ARTCC boundary:OCEANIC:
+ARTCC boundary:ZAB_CTR:
+ARTCC boundary:ZFW_CTR:
+ARTCC boundary:ZJX_ARTCC:
+ARTCC boundary:ZJX_CTR:
+ARTCC boundary:ZKC_CTR:
+ARTCC boundary:ZME_CTR:
+ARTCC boundary:ZMY_CTR:
+ARTCC boundary:ZTL_ARTCC:
+ARTCC boundary:ZTL_CTR:
+ARTCC low boundary:AUSTIN:
+ARTCC low boundary:CORPUS_CHIRSTI:
+ARTCC low boundary:LAKE_CHARLES:
+ARTCC low boundary:LUFKIN:
+ARTCC low boundary:NEW_ORLEANS:
+ARTCC low boundary:ROCKSPRINGS:
+Fixes:FST:name
+Fixes:FST:symbol
+VORs:AEX:name
+VORs:AEX:symbol
+VORs:BRO:name
+VORs:BRO:symbol
+VORs:CLL:name
+VORs:CLL:symbol
+VORs:CRP:name
+VORs:CRP:symbol
+VORs:CWK:name
+VORs:CWK:symbol
+VORs:GCV:name
+VORs:GCV:symbol
+VORs:HEZ:name
+VORs:HEZ:symbol
+VORs:HRV:name
+VORs:HRV:symbol
+VORs:IAH:name
+VORs:IAH:symbol
+VORs:JCT:name
+VORs:JCT:symbol
+VORs:LEV:name
+VORs:LEV:symbol
+VORs:LFK:name
+VORs:LFK:symbol
+VORs:LLA:name
+VORs:LLA:symbol
+VORs:LLO:name
+VORs:LLO:symbol
+VORs:LOA:name
+VORs:LOA:symbol
+VORs:LRD:name
+VORs:LRD:symbol
+VORs:MCB:name
+VORs:MCB:symbol
+VORs:PSX:name
+VORs:PSX:symbol
+VORs:SAT:name
+VORs:SAT:symbol
+VORs:SWB:name
+VORs:SWB:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:24.402451:-107.030487:35.566415:-83.652397
