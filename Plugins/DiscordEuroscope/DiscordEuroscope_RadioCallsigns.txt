@@ -223,3 +223,36 @@ BTR_TWR Ryan Tower
 BTR_APP Baton Rouge Approach
 BTR_E_APP Baton Rouge Approach
 BTR_W_APP Baton Rouge Approach
+----------KHUM----------
+HUM_GND Houma Ground
+HUM_TWR Houma Tower
+----------KNEW----------
+NEW_GND Lakefront Ground
+NEW_TWR Lakefront Tower
+----------KNBG----------
+NBG_GND Navy New Orleans Ground
+NBG_TWR Navy New Orleans Tower
+----------KHSA----------
+HSA_GND Stennis Ground
+HSA_TWR Stennis Tower
+----------KGPT----------
+GPT_GND Gulfport Ground
+GPT_TWR Gulfport Tower
+GPT_APP Gulfport Approach
+GPT_W_APP Gulfport Approach
+GPT_E_APP Gulfport Approach
+----------KBIX----------
+BIX_GND Keesler Ground
+BIX_TWR Keesler Tower
+----------KPQL----------
+PQL_GND Trent Lott Ground
+PQL_TWR Trent Lott Tower
+----------KBFM----------
+BFM_GND Downtown Ground
+BFM_TWR Downtown Tower
+----------KMOB----------
+MOB_DEL Mobile Delivery
+MOB_GND Mobile Ground
+MOB_TWR Mobile Tower
+MOB_N_APP Mobile Approach
+MOB_S_APP Mobile Approach
