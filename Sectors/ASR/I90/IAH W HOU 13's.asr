@@ -1,11 +1,13 @@
-DisplayTypeName:
+DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\micha\Documents\VRC\vZHU Sector - 1911.sct2
-SECTORTITLE:vZHU Sector - 1911.sct2
+SECTORFILE:E:\ZHU-ES-FIles\Sectors\ZHU.sct2
+SECTORTITLE:ZHU.sct2
+Sids:HOU Final 12:
 Sids:i90 Base:
+Sids:IAH West Flow Finals:
 SHOWC:1
-SHOWSB:1
+SHOWSB:0
 BELOW:0
 ABOVE:0
 LEADER:5
@@ -17,4 +19,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:26.411822:-102.822431:33.557044:-87.860453
+WINDOWAREA:28.356829:-98.749754:31.612037:-91.933130
