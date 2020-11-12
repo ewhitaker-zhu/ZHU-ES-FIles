@@ -77,3 +77,20 @@ IAH_C_TWR Houston Tower
 IAH_S_TWR Houston Tower
 IAH_W_TWR Houston Tower
 IAH_TWR Houston Tower
+----------KHOU----------
+HOU_DEL Hobby Delivery
+HOU_GND Hobby Ground
+HOU_TWR Hobby Tower
+----------KAUS----------
+AUS_DEL Austin Delivery
+AUS_GND Austin Ground
+AUS_A_GND Austin Ground
+AUS_B_GND Austin Ground
+AUS_TWR Austin Tower
+AUS_E_GND Austin Tower
+AUS_W_TWR Austin Tower
+AUS_APP Austin Approach
+AUS_W_TWR Austin Approach
+AUS_E_APP Austin Approach
+AUS_S_APP Austin Approach
+AUS_F_APP Austin Approach
