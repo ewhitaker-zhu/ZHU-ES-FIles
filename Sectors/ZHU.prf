@@ -1,4 +1,4 @@
-Settings	sector	C:\Users\micha\Documents\VRC\ZHU_SECTOR_2005-1.sct2
+Settings	sector	\ZHU.sct2
 LastSession	connecttype	0
 LastSession	callsign	MO_OBS
 LastSession	realname	Michael LaRosh
@@ -17,7 +17,7 @@ Settings	airports	E:\ZHU Sector Files\euroscope-files\DataFiles\ICAO_Airports.tx
 Settings	aircraft	E:\ZHU Sector Files\euroscope-files\DataFiles\ICAO_Aircraft.txt
 Settings	airportcoords	E:\ZHU Sector Files\euroscope-files\DataFiles\ICAO.txt
 Settings	airways	E:\ZHU Sector Files\euroscope-files\DataFiles\airway.txt
-RecentFiles	Recent2	C:\Users\micha\Documents\VRC\ZHU_SECTOR_1904-1.sct2
+RecentFiles	Recent2	\ASR\ZHU.asr
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 Settings	SettingsfileSYMBOLOGY	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\adawg.txt
@@ -35,7 +35,7 @@ Settings	SettingsfileSCREEN	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\
 Settings	SettingsfileCONFLICT	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\adawg.txt
 Settings	SettingsfileVCCS	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\adawg.txt
 Settings	SettingsfilePILOTING	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\adawg.txt
-RecentFiles	Recent1	\ASR\ZHU.asr
+RecentFiles	Recent1	\ZHU.ese
 Sounds	Sound0	C:\Users\micha\Documents\EuroScope\Sounds\handoff_request.wav
 Sounds	Sound1	C:\Users\micha\Documents\EuroScope\Sounds\handoff_accept.wav
 Sounds	Sound2	C:\Users\micha\Documents\EuroScope\Sounds\conflict_alert.wav
@@ -56,3 +56,8 @@ Sounds	Sound16	C:\Users\micha\Documents\EuroScope\Sounds\handoff_refused.wav
 Sounds	Sound17	C:\Users\micha\Documents\EuroScope\Sounds\pointout.wav
 Sounds	Sound18	C:\Users\micha\Documents\EuroScope\Sounds\startup.wav
 Sounds	OutputDevice	VoiceMeeter Aux Input (VB-Audio
+Plugins	Plugin0	E:\ZHU-ES-FIles\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin1	E:\ZHU-ES-FIles\Plugins\vSMR\vSMR.dll
+Plugins	Plugin1Display0	SMR radar display
+Plugins	Plugin2	E:\ZHU-ES-FIles\Plugins\AfvEuroScopeBridge.dll
+Plugins	Plugin3	E:\ZHU-ES-FIles\Plugins\OpenURLPlugIn.dll
