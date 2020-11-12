@@ -122,3 +122,23 @@ SSF_TWR Stinson Tower
 ----------KRND----------
 RND_GND Hangover Ground
 RND_TWR Hangover Tower
+----------KBAZ----------
+BAZ_DEL New Braunfels Delivery
+BAZ_GND New Braunfels Ground
+BAZ_TWR New Braunfels Tower
+----------KGTU----------
+GTU_GND Georgetown Ground
+GTU_TWR Georgetown Tower
+----------KGRK----------
+GRK_GND Gray Ground
+GRK_TWR Gray Tower
+GRK_APP Gray Approach
+----------KHLR----------
+HLR_GND Hood Ground
+HLR_TWR Hood Tower
+----------KVCT----------
+VCT_GND Victoria Ground
+VCT_TWR Victoria Tower
+----------KCLL----------
+CLL_GND Easterwood Ground
+CLL_TWR Easterwood Tower
