@@ -1,4 +1,4 @@
-Settings	sector	\ZHU.sct2
+Settings	sector	\ZHU.sct
 LastSession	connecttype	0
 LastSession	callsign	MO_OBS
 LastSession	realname	Michael LaRosh
@@ -61,3 +61,4 @@ Plugins	Plugin1	E:\ZHU-ES-FIles\Plugins\vSMR\vSMR.dll
 Plugins	Plugin1Display0	SMR radar display
 Plugins	Plugin2	E:\ZHU-ES-FIles\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin3	E:\ZHU-ES-FIles\Plugins\OpenURLPlugIn.dll
+RecentFiles	Recent3	\ASR\ZHU.asr
