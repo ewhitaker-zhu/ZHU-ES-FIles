@@ -144,3 +144,21 @@ VCT_TWR Victoria Tower
 ----------KCLL----------
 CLL_GND Easterwood Ground
 CLL_TWR Easterwood Tower
+----------KDWH----------
+DWH_DEL Hooks Delivery
+DWH_GND Hooks Ground
+DWH_TWR Hooks Tower
+----------KEFD----------
+EFD_GND Ellington Ground
+EFD_TWR Ellington Tower
+----------KSGR----------
+SGR_GND Sugarland Ground
+SGR_TWR Sugarland Tower
+----------KCRP----------
+CRP_DEL Corpus Delivery
+CRP_GND Corpus Ground
+CRP_TWR Corpus Tower
+CRP_APP Corpus Approach
+CRP_N_APP Corpus Approach
+CRP_W_APP Corpus Approach
+CRP_E_APP Corpus Approach
