@@ -168,3 +168,24 @@ NOG_TWR Navy Orange Tower
 ----------KNQI----------
 NQI_TWR Kingsville Tower
 NQI_APP Kingsville Approach
+----------Valley Approach----------
+
+----------KMFE----------
+MFE_GND McAllen Ground
+MFE_TWR McAllen Tower
+----------KBRO----------
+BRO_GND Brownsville Ground
+BRO_TWR Brownsville Tower
+----------KHRL----------
+HRL_GND Harlingen Ground
+HRL_TWR Harlingen Tower
+----------KCXO----------
+CXO_GND Lone Star Ground
+CXO_TWR Lone Star Tower
+----------KGLS----------
+GLS_GND Scholes Ground
+GLS_TWR Scholes Tower
+----------KBPT----------
+BPT_DEL Beaumont Delivery
+BPT_GND Beaumont Ground
+BPT_TWR Beaumont Tower
