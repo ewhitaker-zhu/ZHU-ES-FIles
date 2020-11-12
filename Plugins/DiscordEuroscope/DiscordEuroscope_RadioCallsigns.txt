@@ -162,3 +162,9 @@ CRP_APP Corpus Approach
 CRP_N_APP Corpus Approach
 CRP_W_APP Corpus Approach
 CRP_E_APP Corpus Approach
+----------KNGP----------
+NGP_TWR Navy Corpus Tower
+NOG_TWR Navy Orange Tower
+----------KNQI----------
+NQI_TWR Kingsville Tower
+NQI_APP Kingsville Approach
