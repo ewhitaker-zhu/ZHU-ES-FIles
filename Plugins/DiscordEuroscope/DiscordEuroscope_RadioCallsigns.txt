@@ -98,6 +98,7 @@ AUS_F_APP Austin Approach
 MSY_DEL New Orleans Delivery
 MSY_GND New Orleans Ground
 MSY_TWR New Orleans Tower
+MSY_APP New Orleans Approach
 MSY_W_APP New Orleans Approach
 MSY_E_APP New Orleans Approach
 MSY_S_APP New Orleans Approach
@@ -106,6 +107,7 @@ MSY_H_APP New Orleans Approach
 SAT_DEL San Antonio Delivery
 SAT_GND San Antonio Ground
 SAT_TWR San Antonio Tower
+SAT_APP San Antonio Approach
 SAT_N_APP San Antonio Approach
 SAT_E_APP San Antonio Approach
 SAT_S_APP San Antonio Approach
