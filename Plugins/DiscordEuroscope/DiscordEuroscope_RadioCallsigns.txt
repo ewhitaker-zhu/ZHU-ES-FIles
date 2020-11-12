@@ -1,4 +1,5 @@
 ----------ZHU/ZHO----------
+HOU_CTR Houston Center
 HOU_23_CTR Houston Center
 HOU_24_CTR Houston Center
 HOU_25_CTR Houston Center
@@ -44,6 +45,7 @@ HOU_98_CTR Houston Center
 ZHU_72_FSS Houston Center
 ZHU_79_FSS Houston Center
 ----------I90----------
+HOU_APP Houston Approach
 HOU_D_APP Houston Approach
 HOU_N_APP Houston Approach
 HOU_G_APP Houston Approach
@@ -58,3 +60,20 @@ HOU_Z_APP Houston Approach
 HOU_P_APP Houston Approach
 HOU_R_APP Houston Approach
 HOU_B_APP Houston Approach
+HOU_DEP Houston Departure
+HOU_M_DEP Houston Departure
+HOU_L_DEP Houston Departure
+HOU_E_DEP Houston Departure
+HOU_W_DEP Houston Departure
+----------KIAH----------
+IAH_S_GND Houston Ground
+IAH_T_GND Houston Ground
+IAH_RN_GND Houston Ramp
+IAH_RW_GND Houston Ramp
+IAH_RE_GND Houston Ramp
+IAH_GM_GND Houston Metering
+IAH_N_TWR Houston Tower
+IAH_C_TWR Houston Tower
+IAH_S_TWR Houston Tower
+IAH_W_TWR Houston Tower
+IAH_TWR Houston Tower
