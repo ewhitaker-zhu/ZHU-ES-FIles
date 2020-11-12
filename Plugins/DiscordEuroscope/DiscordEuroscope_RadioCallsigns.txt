@@ -169,7 +169,10 @@ NOG_TWR Navy Orange Tower
 NQI_TWR Kingsville Tower
 NQI_APP Kingsville Approach
 ----------Valley Approach----------
-
+VLY_W_APP Valley Approach
+VLY_E_APP Valley Approach
+VLY_N_APP Valley Approach
+VLY_N_APP Valley Approach
 ----------KMFE----------
 MFE_GND McAllen Ground
 MFE_TWR McAllen Tower
