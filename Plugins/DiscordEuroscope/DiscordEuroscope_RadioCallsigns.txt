@@ -173,6 +173,7 @@ VLY_W_APP Valley Approach
 VLY_E_APP Valley Approach
 VLY_N_APP Valley Approach
 VLY_N_APP Valley Approach
+VLY_APP Valley Approach
 ----------KMFE----------
 MFE_GND McAllen Ground
 MFE_TWR McAllen Tower
