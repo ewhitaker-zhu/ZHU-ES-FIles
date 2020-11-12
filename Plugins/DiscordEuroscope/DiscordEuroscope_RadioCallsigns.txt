@@ -94,3 +94,31 @@ AUS_W_TWR Austin Approach
 AUS_E_APP Austin Approach
 AUS_S_APP Austin Approach
 AUS_F_APP Austin Approach
+----------KMSY----------
+MSY_DEL New Orleans Delivery
+MSY_GND New Orleans Ground
+MSY_TWR New Orleans Tower
+MSY_W_APP New Orleans Approach
+MSY_E_APP New Orleans Approach
+MSY_S_APP New Orleans Approach
+MSY_H_APP New Orleans Approach
+----------KSAT----------
+SAT_DEL San Antonio Delivery
+SAT_GND San Antonio Ground
+SAT_TWR San Antonio Tower
+SAT_N_APP San Antonio Approach
+SAT_E_APP San Antonio Approach
+SAT_S_APP San Antonio Approach
+SAT_W_APP San Antonio Approach
+----------KDLF----------
+DLF_GND Laughlin Ground
+DLF_TWR Laughlin Tower
+----------KSKF----------
+SKF_GND Kelly Ground
+SKF_TWR Kelly Tower
+----------KSSF----------
+SSF_GND Stinson Ground
+SSF_TWR Stinson Tower
+----------KRND----------
+RND_GND Hangover Ground
+RND_TWR Hangover Tower
