@@ -189,3 +189,37 @@ GLS_TWR Scholes Tower
 BPT_DEL Beaumont Delivery
 BPT_GND Beaumont Ground
 BPT_TWR Beaumont Tower
+----------KPOK----------
+POE_GND Polk Ground
+POE_TWR Polk Tower
+POE_APP Polk Approach
+----------KLCH----------
+LCH_DEL Lake Charles Delivery
+LCH_GND Lake Charles Ground
+LCH_TWR Lake Charles Tower
+LCH_APP Lake Charles Approach
+LCH_W_APP Lake Charles Approach
+LCH_E_APP Lake Charles Approach
+----------KCWF----------
+CWF_GND Chennault Ground
+CWF_TWR Chennault Tower
+----------KAEX----------
+AEX_GND Alexandria Ground
+AEX_TWR Alexandria Tower
+----------KLFT----------
+LFT_DEL Lafayette Delivery
+LFT_GND Lafayette Ground
+LFT_TWR Lafayette Tower
+LFT_APP Lafayette Approach
+LFT_W_APP Lafayette Approach
+LFT_E_APP Lafayette Approach
+----------KARA----------
+ARA_GND Acadiana Ground
+ARA_TWR Acadiana Tower
+----------KBTR----------
+BTR_DEL Ryan Delivery
+BTR_GND Ryan Ground
+BTR_TWR Ryan Tower
+BTR_APP Baton Rouge Approach
+BTR_E_APP Baton Rouge Approach
+BTR_W_APP Baton Rouge Approach
