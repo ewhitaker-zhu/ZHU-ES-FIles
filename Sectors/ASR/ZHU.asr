@@ -1,10 +1,223 @@
-DisplayTypeName:
+DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:E:\ZHU-ES-FIles\Sectors\ZHU.sct2
-SECTORTITLE:ZHU.sct2
+SECTORFILE:E:\ZHU-ES-FIles\Sectors\ZHU.sct
+SECTORTITLE:ZHU.sct
+23 - White Lake Ultra High:Houston Center:132.950
+24 - Leeville:Houston Center:132.170
+25 - Brookley Low:Houston Center:127.650
+26 - Woodeville High:Houston Center:128.170
+27 - Picayune Low:Houston Center:126.800
+28 - Offshore West:Houston Center:127.850
+30 - Offshore East:Houston Center:134.900
+34 - Baton Rouge Low:Houston Center:126.350
+36 - Liberty Low:Houston Center:124.700
+37 - Hattiesburg Ultra High:Houston Center:126.870
+38 - Daisetta Low:Houston Center:126.950
+40 - Polk Low:Houston Center:120.970
+42 - Alexandria High:Houston Center:132.700
+43 - Trinity:Houston Center:133.800
+46 - Houston High:Houston Center:132.770
+49 - Lufkin Low:Houston Center:125.170
+50 - Stonewall Low:Houston Center:134.200
+53 - Offshore Central:Houston Center:120.350
+56 - Shiner Low:Houston Center:134.600
+58 - Brownsville Low:Houston Center:128.150
+59 - Corpus High:Houston Center:133.750
+63 - Mobile High:Houston Center:125.770
+65 - McComb High:Houston Center:119.720
+68 - Galveston High:Houston Center:123.820
+70 - Tibby High:Houston Center:134.920
+72 - Houston Oceanic East Flight Service Station:Houston Radio:135.770
+74 - Alamo High:Houston Center:128.650
+76 - Slimm Ultra High:Houston Center:125.620
+78 - Austin High:Houston Center:126.420
+79 - Houston Oceanic West Flight Service Station:Houston Radio:132.650
+80 - Industry Low:Houston Center:132.150
+81 - Esler Ultra High:Houston Center:134.420
+82 - Bilee High:Houston Center:123.720
+83 - Cougar Low:Houston Center:128.070
+84 - SOTEX Ultra High:Houston Center:124.720
+85 - Kelly Low:Houston Center:134.950
+86 - Humble Low:Houston Center:134.800
+87 - Eagle Lake Low:Houston Center:128.600
+88 - Frio Ultra High:Houston Center:127.020
+93 - Laredo Low:Houston Center:127.800
+95 - Palacios High:Houston Center:132.370
+96 - Bergstrom Low:Houston Center:125.650
+97 - Junction High:Houston Center:132.400
+98 - Rocksprings Low:Houston Center:125.750
+ARTCC boundary:_CTR:
+ARTCC low boundary:AUSTIN:
+ARTCC low boundary:CORPUS_CHIRSTI:
+ARTCC low boundary:ESLER:
+ARTCC low boundary:LAKE_CHARLES:
+ARTCC low boundary:LUFKIN:
+ARTCC low boundary:NEW_ORLEANS:
+ARTCC low boundary:ROCKSPRINGS:
+Baton Rouge East Approach:Baton Rouge Approach:126.500
+Baton Rouge West Approach:Baton Rouge Approach:120.300
+Brownsville East Valley Approach:Valley Approach:119.500
+Combined Valley Approach:Valley Approach:120.700
+Corpus East Approach:Corpus Approach:125.400
+Corpus North Approach:Corpus Approach:120.900
+Corpus West Approach:Corpus Approach:124.800
+Geo:GEO:
+Gulfport Northeast Approach:Gulfport Approach:127.500
+Gulfport Southwest Approach:Gulfport Approach:124.600
+Harlingen North Valley Approach:Valley Approach:120.700
+Houston Beaumont Satellite Approach:Houston Approach:121.300
+Houston College Satellite Approach:Houston Approach:134.300
+Houston Eagle Lake Approach:Houston Approach:119.170
+Houston East Approach:Houston Approach:120.050
+Houston East Departure:Houston Departure:133.600
+Houston Final Center Approach:Houston Approach:120.650
+Houston Final North Approach:Houston Approach:119.100
+Houston Final South Approach:Houston Approach:134.000
+Houston Gulf Approach:Houston Approach:119.620
+Houston Hobby Final Approach:Houston Approach:133.050
+Houston Industry Satellite Approach:Houston Approach:124.220
+Houston Lakeside Satellite Approach:Houston Approach:123.800
+Houston North Departure:Houston Departure:132.250
+Houston Sanjac Satellite Approach:Houston Approach:124.450
+Houston South Departure:Houston Departure:127.120
+Houston Tomball Satellite Approach:Houston Approach:119.700
+Houston West Approach:Houston Approach:124.350
+Houston West Departure:Houston Departure:126.675
+KAEX Alexandria International Ground:Alexandria Ground:121.900
+KAEX Alexandria International Tower:Alexandria Tower:127.350
+KARA Acadiana Regional Ground:Acadiana Ground:121.700
+KARA Acadiana Regional Tower:Acadiana Tower:125.000
+KAUS Austin Bergstrom International Clearance Delivery:Austin Delivery:125.500
+KAUS Austin Bergstrom International East Ground:Austin Ground:121.900
+KAUS Austin Bergstrom International East Tower:Austin Tower:121.000
+KAUS Austin Bergstrom International West Ground:Austin Ground:121.700
+KAUS Austin Bergstrom International West Tower:Austin Tower:118.225
+KAUS Austin East Approach:Austin Approach:127.225
+KAUS Austin Final Approach:Austin Approach:125.325
+KAUS Austin South Approach:Austin Approach:120.875
+KAUS Austin West Approach:Austin Approach:119.000
+KBAZ New Braunfels Clearance Delivery:New Braunfels Delivery:134.750
+KBAZ New Braunfels Ground:New Braunfels Ground:120.175
+KBAZ New Braunfels Tower:New Braunfels Tower:127.050
+KBFM Mobile Downtown Ground:Downtown Ground:121.700
+KBFM Mobile Downtown Tower:Downtown Tower:118.800
+KBIX Keesler AFB Ground:Keesler Ground:121.800
+KBIX Keesler AFB Tower:Keesler Tower:120.750
+KBPT Beaumont Jack Brooks Regional Clearance Delivery:Beaumont Delivery:118.300
+KBPT Beaumont Jack Brooks Regional Ground:Beaumont Ground:121.900
+KBPT Beaumont Jack Brooks Regional Tower:Beaumont Tower:119.500
+KBRO Brownsville South Padre Island International Ground:Brownsville Ground:121.900
+KBRO Brownsville South Padre Island International Tower:Brownsville Tower:118.900
+KBTR Ryan Clearance Delivery:Ryan Delivery:119.400
+KBTR Ryan Ground:Ryan Ground:121.900
+KBTR Ryan Tower:Ryan Tower:118.450
+KCLL Easterwood College Station Ground:Easterwood Ground:128.700
+KCLL Easterwood College Station Tower:Easterwood Tower:118.500
+KCRP Corpus Christi International Clearance Delivery:Corpus Delivery:118.550
+KCRP Corpus Christi International Ground:Corpus Ground:121.900
+KCRP Corpus Christi International Tower:Corpus Tower:119.400
+KCWF Chennault International Ground:Chennault Ground:121.650
+KCWF Chennault International Tower:Chennault Tower:124.200
+KCXO Conroe North Houston Regional Ground:Lone Star Ground:120.450
+KCXO Conroe North Houston Regional Tower:Lone Star Tower:124.125
+KDLF Laughlin AFB Ground:Laughlin Ground:120.500
+KDLF Laughlin AFB Tower:Laughlin Tower:125.200
+KDWH David Wayne Hooks Memorial Clearance Delivery:Hooks Delivery:119.450
+KDWH David Wayne Hooks Memorial Ground:Hooks Ground:121.800
+KDWH David Wayne Hooks Memorial Tower:Hooks Tower:118.400
+KEFD Ellington Ground:Ellington Ground:121.600
+KEFD Ellington Tower:Ellington Tower:126.050
+KGLS Galveston Scholes International Ground:Scholes Ground:118.625
+KGLS Galveston Scholes International Tower:Scholes Tower:120.575
+KGPT Gulfport Biloxi International Ground:Gulfport Ground:120.400
+KGPT Gulfport Biloxi International Tower:Gulfport Tower:123.700
+KGRK Gray Killeen Approach:Gray Approach:120.075
+KGRK Gray Killeen Ground:Gray Ground:126.200
+KGRK Gray Killeen Tower:Gray Tower:120.750
+KGTU Georgetown Ground:Georgetown Ground:119.120
+KGTU Georgetown Tower:Georgetown Tower:120.225
+KHLR Fort Hood Ground:Hood Ground:133.850
+KHLR Fort Hood Tower:Hood Tower:119.650
+KHOU William P. Hobby Clearance Delivery:Hobby Delivery:125.450
+KHOU William P. Hobby Ground:Hobby Ground:121.900
+KHOU William P. Hobby Tower:Hobby Tower:118.700
+KHRL Harlingen Valley International Ground:Harlingen Ground:121.700
+KHRL Harlingen Valley International Tower:Harlingen Tower:119.300
+KHSA Stennis International Ground:Stennis Ground:121.725
+KHSA Stennis International Tower:Stennis Tower:127.150
+KHUM Houma Terrebonne Ground:Houma Ground:121.800
+KHUM Houma Terrebonne Tower:Houma Tower:125.300
+KIAH George Bush Intercontinental Center Tower:Houston Tower:125.350
+KIAH George Bush Intercontinental Clearance Delivery:Houston Delivery:128.100
+KIAH George Bush Intercontinental Ground East:Houston Ground:118.575
+KIAH George Bush Intercontinental Ground Metering:Houston Ground:119.950
+KIAH George Bush Intercontinental Ground West:Houston Ground:121.700
+KIAH George Bush Intercontinental North Tower:Houston Tower:120.725
+KIAH George Bush Intercontinental Ramp East:Houston Ground:131.275
+KIAH George Bush Intercontinental Ramp North:Houston Metering:130.825
+KIAH George Bush Intercontinental Ramp West:Houston Ground:121.625
+KIAH George Bush Intercontinental South Tower:Houston Tower:135.150
+KIAH George Bush Intercontinental West Tower:Houston Tower:127.300
+Kingsville Approach:Kingsville Approach:119.900
+KLCH Lake Charles Regional Clearance Delivery:Lake Charles Delivery:126.250
+KLCH Lake Charles Regional Ground:Lake Charles Ground:121.800
+KLCH Lake Charles Regional Tower:Lake Charles Tower:120.700
+KLFT Lafayette Regional Clearance Delivery:Lafayette Delivery:125.550
+KLFT Lafayette Regional Ground:Lafayette Ground:121.800
+KLFT Lafayette Regional Tower:Lafayette Tower:118.500
+KLRD Laredo International Ground:Laredo Ground:121.800
+KLRD Laredo International Tower:Laredo Tower:120.100
+KMFE McAllen Miller International Ground:McAllen Ground:121.800
+KMFE McAllen Miller International Tower:McAllen Tower:118.500
+KMOB Mobile Regional Clearance Delivery:Mobile Delivery:119.850
+KMOB Mobile Regional Ground:Mobile Ground:121.900
+KMOB Mobile Regional Tower:Mobile Tower:118.300
+KMSY Louis Armstrong New Orleans International Clearance Delivery:New Orleans Delivery:127.200
+KMSY Louis Armstrong New Orleans International Ground:New Orleans Ground:121.900
+KMSY Louis Armstrong New Orleans International Tower:New Orleans Tower:119.500
+KNBG New Orleans NAS Ground:Navy New Orleans Ground:121.600
+KNBG New Orleans NAS Tower:Navy New Orleans Tower:123.800
+KNEW New Orleans Lakefront Ground:Lakefront Ground:121.700
+KNEW New Orleans Lakefront Tower:Lakefront Tower:119.900
+KNGP Corpus Christi NAS Tower:Navy Corpus Tower:125.525
+KNOG Orange Grove NAF Tower:Navy Orange Tower:128.400
+KNQI Kingsville NAS Tower:Kingsville Tower:124.100
+KPOE Polk AAF Ground:Polk Ground:121.800
+KPOE Polk AAF Tower:Polk Tower:119.000
+KPQL Pascagoula Trent Lott International Ground:Trent Lott Ground:121.725
+KPQL Pascagoula Trent Lott International Tower:Trent Lott Tower:118.575
+KRND Randolph AFB Ground:Hangover Ground:119.650
+KRND Randolph AFB Tower:Hangover Tower:120.500
+KSAT San Antonio International Clearance Delivery:San Antonio Delivery:126.700
+KSAT San Antonio International Ground:San Antonio Ground:121.900
+KSAT San Antonio International Tower:San Antonio Tower:119.800
+KSGR Sugar Land Regional Ground:Sugarland Ground:121.400
+KSGR Sugar Land Regional Tower:Sugarland Tower:118.650
+KSKF Kelly Ground:Kelly Ground:121.800
+KSKF Kelly Tower:Kelly Tower:124.300
+KSSF Stinson Ground:Stinson Ground:121.700
+KSSF Stinson Tower:Stinson Tower:118.200
+KVCT Victoria Regional Ground:Victoria Ground:120.525
+KVCT Victoria Regional Tower:Victoria Tower:126.075
+Lafayette East Approach:Lafayette Approach:121.100
+Lafayette West Approach:Lafayette Approach:128.700
+Lake Charles East Approach:Lake Charles Approach:119.800
+Lake Charles West Approach:Lake Charles Approach:119.350
+McAllen West Valley Approach:Valley Approach:121.000
+Mobile Northeast Approach:Mobile Approach:118.500
+Mobile Southwest Approach:Mobile Approach:121.000
+New Orleans East Approach:New Orleans Approach:133.150
+New Orleans Houma Approach:New Orleans Approach:118.900
+New Orleans South Approach:New Orleans Approach:123.850
+New Orleans West Approach:New Orleans Approach:125.500
+Polk Approach:Polk Approach:123.700
+San Antonio Northeast Approach:San Antonio Approach:127.100
+San Antonio Northwest Approach:San Antonio Approach:125.100
+San Antonio Southeast Approach:San Antonio Approach:125.700
+San Antonio Southwest Approach:San Antonio Approach:118.050
 SHOWC:1
-SHOWSB:0
+SHOWSB:1
 BELOW:0
 ABOVE:0
 LEADER:5
@@ -16,4 +229,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:22.832813:-111.090004:38.371509:-78.550934
+WINDOWAREA:24.583290:-106.821860:34.517406:-83.125538

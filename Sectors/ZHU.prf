@@ -1,14 +1,13 @@
 Settings	sector	\ZHU.sct
 LastSession	connecttype	0
-LastSession	callsign	MO_OBS
 LastSession	realname	Michael LaRosh
 LastSession	certificate	1418112
 LastSession	password	DpEp668JSL
-LastSession	facility	0
+LastSession	facility	1
 LastSession	rating	3
 LastSession	server	SweatBox
 LastSession	tovatsim	1
-LastSession	range	100
+LastSession	range	1500
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 Settings	alias	C:\Users\micha\Documents\EuroScope\Vatusa\DC\ZDC Alias File.txt
@@ -17,25 +16,25 @@ Settings	airports	E:\ZHU Sector Files\euroscope-files\DataFiles\ICAO_Airports.tx
 Settings	aircraft	E:\ZHU Sector Files\euroscope-files\DataFiles\ICAO_Aircraft.txt
 Settings	airportcoords	E:\ZHU Sector Files\euroscope-files\DataFiles\ICAO.txt
 Settings	airways	E:\ZHU Sector Files\euroscope-files\DataFiles\airway.txt
-RecentFiles	Recent2	\ASR\ZHU.asr
+RecentFiles	Recent2	\ZHU.ese
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
-Settings	SettingsfileSYMBOLOGY	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\adawg.txt
-Settings	SettingsfileVOICE	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\settings.txt
-Settings	SettingsfilePROFILE	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\settings.txt
-Settings	SettingsfileTAGS	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\adawg.txt
-Settings	SettingsfileSIL	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\adawg.txt
-Settings	SettingsfileSEL	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\settings.txt
-Settings	SettingsfileDEP	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\settings.txt
-Settings	SettingsfileARR	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\settings.txt
-Settings	SettingsfileFP	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\settings.txt
-Settings	SettingsfilePLUGINS	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\settings.txt
-Settings	Settingsfile	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\adawg.txt
-Settings	SettingsfileSCREEN	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\settings.txt
-Settings	SettingsfileCONFLICT	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\adawg.txt
-Settings	SettingsfileVCCS	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\adawg.txt
-Settings	SettingsfilePILOTING	E:\ZHU Sector Files\euroscope-files\Settings\TRACON\adawg.txt
-RecentFiles	Recent1	\ZHU.ese
+Settings	SettingsfileSYMBOLOGY	E:\ZHU-ES-FIles\Settings\CENTER\settings.txt
+Settings	SettingsfileVOICE	E:\ZHU-ES-FIles\Settings\CENTER\settings.txt
+Settings	SettingsfilePROFILE	E:\ZHU-ES-FIles\Settings\CENTER\settings.txt
+Settings	SettingsfileTAGS	E:\ZHU-ES-FIles\Settings\CENTER\settings.txt
+Settings	SettingsfileSIL	E:\ZHU-ES-FIles\Settings\CENTER\settings.txt
+Settings	SettingsfileSEL	E:\ZHU-ES-FIles\Settings\CENTER\settings.txt
+Settings	SettingsfileDEP	E:\ZHU-ES-FIles\Settings\CENTER\settings.txt
+Settings	SettingsfileARR	E:\ZHU-ES-FIles\Settings\CENTER\settings.txt
+Settings	SettingsfileFP	E:\ZHU-ES-FIles\Settings\CENTER\settings.txt
+Settings	SettingsfilePLUGINS	E:\ZHU-ES-FIles\Settings\CENTER\settings.txt
+Settings	Settingsfile	E:\ZHU-ES-FIles\Settings\CENTER\settings.txt
+Settings	SettingsfileSCREEN	E:\ZHU-ES-FIles\Settings\CENTER\settings.txt
+Settings	SettingsfileCONFLICT	E:\ZHU-ES-FIles\Settings\CENTER\settings.txt
+Settings	SettingsfileVCCS	E:\ZHU-ES-FIles\Settings\CENTER\settings.txt
+Settings	SettingsfilePILOTING	E:\ZHU-ES-FIles\Settings\CENTER\settings.txt
+RecentFiles	Recent1	\ASR\ZHU.asr
 Sounds	Sound0	C:\Users\micha\Documents\EuroScope\Sounds\handoff_request.wav
 Sounds	Sound1	C:\Users\micha\Documents\EuroScope\Sounds\handoff_accept.wav
 Sounds	Sound2	C:\Users\micha\Documents\EuroScope\Sounds\conflict_alert.wav
@@ -62,3 +61,4 @@ Plugins	Plugin1Display0	SMR radar display
 Plugins	Plugin2	E:\ZHU-ES-FIles\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin3	E:\ZHU-ES-FIles\Plugins\OpenURLPlugIn.dll
 RecentFiles	Recent3	\ASR\ZHU.asr
+LastSession	callsign	ZHU_79_FSS
