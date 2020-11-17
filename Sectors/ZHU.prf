@@ -3,11 +3,11 @@ LastSession	connecttype	0
 LastSession	realname	Michael LaRosh
 LastSession	certificate	1418112
 LastSession	password	DpEp668JSL
-LastSession	facility	1
-LastSession	rating	3
+LastSession	facility	6
+LastSession	rating	4
 LastSession	server	SweatBox
 LastSession	tovatsim	1
-LastSession	range	1500
+LastSession	range	600
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 Settings	alias	C:\Users\micha\Documents\EuroScope\Vatusa\DC\ZDC Alias File.txt
@@ -61,4 +61,4 @@ Plugins	Plugin1Display0	SMR radar display
 Plugins	Plugin2	E:\ZHU-ES-FIles\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin3	E:\ZHU-ES-FIles\Plugins\OpenURLPlugIn.dll
 RecentFiles	Recent3	\ASR\ZHU.asr
-LastSession	callsign	ZHU_79_FSS
+LastSession	callsign	HOU_81_CTR
