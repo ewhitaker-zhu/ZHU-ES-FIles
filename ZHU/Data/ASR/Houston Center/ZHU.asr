@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:E:\ZHU-ES-FIles\Sectors\ZHU.sct
-SECTORTITLE:ZHU.sct
+SECTORFILE:ZHU\Data\Sectors\ZHU.sct
+SECTORTITLE:Houston Center ARTCC Sector File
 23 - White Lake Ultra High:Houston Center:132.950
 24 - Leeville:Houston Center:132.170
 25 - Brookley Low:Houston Center:127.650

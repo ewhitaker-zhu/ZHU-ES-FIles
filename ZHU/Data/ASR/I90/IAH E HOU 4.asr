@@ -1,11 +1,11 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:E:\ZHU-ES-FIles\Sectors\ZHU.sct2
-SECTORTITLE:ZHU.sct2
-Sids:HOU Final 30:
+SECTORFILE:ZHU\Data\Sectors\ZHU.sct
+SECTORTITLE:Houston Center ARTCC Sector File
+Sids:HOU Final 4:
 Sids:i90 Base:
-Sids:IAH West Flow Finals:
+Sids:IAH East Flow Finals:
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -19,4 +19,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:28.356829:-98.749754:31.612037:-91.933130
+WINDOWAREA:0.000000:0.000000:0.000000:0.000000

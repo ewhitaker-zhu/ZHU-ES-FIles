@@ -1,0 +1,32 @@
+Settings	sector	ZHU\Data\Sectors\ZHU.sct
+Settings	alias	ZHU\Data\DataFiles\ZHU_Alias.txt
+Settings	airlines	ZHU\Data\DataFiles\ICAO_Airlines.txt
+Settings	airports	ZHU\Data\DataFiles\ICAO_Airports.txt
+Settings	aircraft	ZHU\Data\DataFiles\ICAO_Aircraft.txt
+Settings	airportcoords	ZHU\Data\DataFiles\ICAO.txt
+Settings	airways	ZHU\Data\DataFiles\airway.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+
+Settings	Settingsfile	ZHU\Data\Settings\GLOBAL_SETTINGS.txt
+Settings	SettingsfileSYMBOLOGY	ZHU\Data\Settings\I90\I90_SYMBOLOGY.txt
+Settings	SettingsfileVOICE	ZHU\Data\Settings\GLOBAL_VOICE.txt
+Settings	SettingsfilePROFILE	ZHU\Data\Settings\I90\I90_PROFILE.txt
+Settings	SettingsfileTAGS	ZHU\Data\Settings\GLOBAL_TAGS.txt
+Settings	SettingsfileSIL	ZHU\Data\Settings\I90\I90_SIL.txt
+Settings	SettingsfileSEL	ZHU\Data\Settings\I90\I90_SEL.txt
+Settings	SettingsfileDEP	ZHU\Data\Settings\I90\I90_DL.txt
+Settings	SettingsfileARR	ZHU\Data\Settings\I90\I90_AL.txt
+Settings	SettingsfileFP	ZHU\Data\Settings\I90\I90_FPL.txt
+Settings	SettingsfilePLUGINS	ZHU\Data\Settings\I90\I90_PLUGINS.txt
+Settings	SettingsfileSCREEN	ZHU\Data\Settings\I90\I90_SCREEN.txt
+Settings	SettingsfileCONFLICT	ZHU\Data\Settings\I90\I90_CA.txt
+Settings	SettingsfileVCCS	ZHU\Data\Settings\GLOBAL_VCCS.txt
+Settings	SettingsfilePILOTING	ZHU\Data\Settings\I90\I90_PL.txt
+
+RecentFiles	Recent1	C:\Users\josha\Documents\EuroScope\ZHU\Data\ASRI90\IAH W HOU 4.asr
+RecentFiles	Recent2	C:\Users\josha\Documents\EuroScope\ZHU\Data\ASRI90\IAH W HOU 13s.asr
+RecentFiles	Recent3	C:\Users\josha\Documents\EuroScope\ZHU\Data\ASRI90\IAH W HOU 31s.asr
+RecentFiles	Recent4	C:\Users\josha\Documents\EuroScope\ZHU\Data\ASRI90\IAH E HOU 4.asr
+RecentFiles	Recent5	C:\Users\josha\Documents\EuroScope\ZHU\Data\ASRI90\IAH E HOU 13s.asr
+RecentFiles	Recent6	C:\Users\josha\Documents\EuroScope\ZHU\Data\ASRI90\IAH E HOU 31s.asr
