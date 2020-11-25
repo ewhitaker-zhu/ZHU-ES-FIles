@@ -354,6 +354,262 @@ KMOB Mobile Regional Tower:Mobile Tower:118.300:MMT:T:MOB:TWR:MOB:TWR:7441:7477
 Mobile Northeast Approach:Mobile Approach:118.500:MN:A:MOB:APP:MOB:APP:7441:7477
 Mobile Southwest Approach:Mobile Approach:121.000:MS:A:MOB:APP:MOB:APP:7441:7477
 
+***************************
+;ZFW ARTCC
+***************************
+;ZFW Ultra-High/Top Down CTR
+FTW_51_CTR ZFW Top Down  :Fort Worth Center:135.170:F51:C:FTW:CTR:ZFW:ZFW51:3600:3677
+FTW_51_CTR ZFW Top Down  :Fort Worth Center:135.175:F51:C:FTW:CTR:ZFW:ZFW51:3600:3677
+
+;Dallas Area
+FTW_46_CTR Dallas High   :Fort Worth Center:135.750:F46:C:FTW:CTR:ZFW:ZFW46:3600:3677
+FTW_90_CTR Texarkana High:Fort Worth Center:126.570:F90:C:FTW:CTR:ZFW:ZFW90:3600:3677
+FTW_96_CTR Waco Low      :Fort Worth Center:133.300:F96:C:FTW:CTR:ZFW:ZFW96:3600:3677
+FTW_83_CTR Quitman Low   :Fort Worth Center:132.020:F83:C:FTW:CTR:ZFW:ZFW83:3600:3677
+FTW_27_CTR Texarkana Low :Fort Worth Center:123.920:F27:C:FTW:CTR:ZFW:ZFW27:3600:3677
+
+;Raider Area
+FTW_93_CTR Turki High   :Fort Worth Center:120.770:F93:C:FTW:CTR:ZFW:ZFW93:3600:3677
+FTW_94_CTR Woven High   :Fort Worth Center:132.920:F94:C:FTW:CTR:ZFW:ZFW94:3600:3677
+FTW_64_CTR Lubbock Low  :Fort Worth Center:126.450:F64:C:FTW:CTR:ZFW:ZFW64:3600:3677
+FTW_32_CTR Possum Low   :Fort Worth Center:127.000:F32:C:FTW:CTR:ZFW:ZFW32:3600:3677
+
+;Bonham Area
+FTW_50_CTR McAlester High:Fort Worth Center:135.450:F50:C:FTW:CTR:ZFW:ZFW50:3600:3677
+FTW_42_CTR Decod High    :Fort Worth Center:134.470:F42:C:FTW:CTR:ZFW:ZFW42:3600:3677
+FTW_48_CTR Ardmore High  :Fort Worth Center:132.970:F48:C:FTW:CTR:ZFW:ZFW48:3600:3677
+FTW_38_CTR McAlester Low :Fort Worth Center:132.200:F38:C:FTW:CTR:ZFW:ZFW38:3600:3677
+FTW_53_CTR Frisco Low    :Fort Worth Center:124.750:F53:C:FTW:CTR:ZFW:ZFW53:3600:3677
+FTW_37_CTR Seevr Low     :Fort Worth Center:124.870:F37:C:FTW:CTR:ZFW:ZFW37:3600:3677
+
+;Bowie Area
+FTW_49_CTR Oke City High :Fort Worth Center:132.450:F49:C:FTW:CTR:ZFW:ZFW49:3600:3677
+FTW_47_CTR Falls High    :Fort Worth Center:124.520:F47:C:FTW:CTR:ZFW:ZFW47:3600:3677
+FTW_75_CTR Bowie Low     :Fort Worth Center:127.950:F75:C:FTW:CTR:ZFW:ZFW75:3600:3677
+FTW_35_CTR Oke City Low  :Fort Worth Center:128.400:F35:C:FTW:CTR:ZFW:ZFW35:3600:3677
+FTW_34_CTR Falls Low     :Fort Worth Center:133.500:F34:C:FTW:CTR:ZFW:ZFW34:3600:3677
+
+;Cedar Creek Area
+FTW_28_CTR El Dorado High :Fort Worth Center:133.870:F28:C:FTW:CTR:ZFW:ZFW28:3600:3677
+FTW_86_CTR Paxto High     :Fort Worth Center:120.470:F86:C:FTW:CTR:ZFW:ZFW86:3600:3677
+FTW_89_CTR Frankston High :Fort Worth Center:134.020:F89:C:FTW:CTR:ZFW:ZFW89:3600:3677
+FTW_30_CTR Monroe Low     :Fort Worth Center:126.320:F30:C:FTW:CTR:ZFW:ZFW30:3600:3677
+FTW_29_CTR Donnie Low     :Fort Worth Center:135.250:F29:C:FTW:CTR:ZFW:ZFW29:3600:3677
+
+;Glen Rose Area
+FTW_82_CTR Wink High     :Fort Worth Center:132.070:F82:C:FTW:CTR:ZFW:ZFW82:3600:3677
+FTW_61_CTR Lee High      :Fort Worth Center:120.270:F61:C:FTW:CTR:ZFW:ZFW61:3600:3677
+FTW_65_CTR Hicoe High    :Fort Worth Center:128.320:F65:C:FTW:CTR:ZFW:ZFW65:3600:3677
+FTW_63_CTR Abeline Low   :Fort Worth Center:127.450:F63:C:FTW:CTR:ZFW:ZFW63:3600:3677
+FTW_40_CTR Midland Low   :Fort Worth Center:133.100:F40:C:FTW:CTR:ZFW:ZFW40:3600:3677
+FTW_62_CTR Ednas Low     :Fort Worth Center:127.150:F62:C:FTW:CTR:ZFW:ZFW62:3600:3677
+
+
+***************************
+;ZJX ARTCC
+***************************
+; HIGH
+ZJX NEPTA R30:Jacksonville Center:135.925:J30:C:JAX:CTR:ZJX:30:1001:1077
+ZJX TORRY R35:Jacksonville Center:134.850:J35:C:JAX:CTR:ZJX:35:1001:1077
+ZJX GENEVA R33:Jacksonville Center:125.050:J33:C:JAX:CTR:ZJX:33:1001:1077
+ZJX AIKEN R66:Jacksonville Center:127.870:J66:C:JAX:CTR:ZJX:66:1001:1077
+
+ZJX MAYO R16:Jacksonville Center:125.170:J16:C:JAX:CTR:ZJX:16:1001:1077
+
+; LOW
+ZJX OCALA R15:Jacksonville Center:133.320:J15:C:JAX:CTR:ZJX:15:1001:1077
+ZJX ASHBURN R13:Jacksonville Center:134.450:J13:C:JAX:CTR:ZJX:13:1001:1077
+ZJX CRESTVIEW R10:Jacksonville Center:120.200:J10:C:JAX:CTR:ZJX:10:1001:1077
+ZJX METTA R52:Jacksonville Center:135.050:J52:C:JAX:CTR:ZJX:52:1001:1077
+ZJX AIKEN R53:Jacksonville Center:126.750:J53:C:JAX:CTR:ZJX:53:1001:1077
+ZJX ST.JOHN R57:Jacksonville Center:134.000:J57:C:JAX:CTR:ZJX:57:1001:1077
+
+; ULTRAHIGH
+ZJX KNEMO R51:Jacksonville Center:120.120:J51:C:JAX:CTR:ZJX:51:1001:1077
+
+***********************
+; MEM_CTR
+***********************
+Memphis Center NE Low:Memphis Center:135.900:M05:C:MEM:CTR:ZME 05:NEL:1501:1577
+Memphis Center NW Low:Memphis Center:120.070:M04:C:MEM:CTR:ZME 04:NWL:1501:1577
+Memphis Center SW Low:Memphis Center:135.300:M15:C:MEM:CTR:ZME 15:SWL:1501:1577
+Memphis Center SE Low:Memphis Center:120.800:M13:C:MEM:CTR:ZME 13:SEL:1501:1577
+Memphis Center NE High:Memphis Center:118.870:M63:C:MEM:CTR:ZME 63:NEH:5601:5677
+Memphis Center NW High:Memphis Center:132.550:M22:C:MEM:CTR:ZME 22:NWH:5601:5677
+Memphis Center S High:Memphis Center:124.820:M45:C:MEM:CTR:ZME 45:SSH:5601:5677
+Memphis Center NW Ultra:Memphis Center:134.770:M20:C:MEM:CTR:ZME 20:NWU:5601:5677
+Memphis Center NE Ultra:Memphis Center:134.650:M32:C:MEM:CTR:ZME 32:NEU:5601:5677
+Memphis Center S Ultra/Combined:Memphis Center:133.650:M33:C:MEM:CTR:ZME 33:SSU:5601:5677
+
+
+***************************
+;ZTL ARTCC
+***************************
+Traffic Management Unit  :Atlanta TMU:199.998:00:-:ZTL:TMU:ZTL:TMU
+
+;ZTL ARTCC
+
+;Operations Desk
+ZTL TMU:Atlanta TMU:199.998:Z00:C:ZTL:TMU:ZTL:TMU
+ZTL TMU:Atlanta TMU:199.997:Z00:U:ATL:CTR:ZTL:TMU
+A80 TMU:Atlanta TMU:199.997:U:U:ATL:APP:A80:TMU
+ZTL Flight Data:Atlanta Flight Watch:135.470:ZWX:C:ATL:CTR:ATL:CTR
+ZTL Clearance Delivery:Atlanta Center:124.250:ZCD:C:ATL:CTR:ATL:CTR
+
+
+;Area 1
+ZTL Salem 42 High:Atlanta Center:120.720:Z42:C:ATL:CTR:Salem High:ZTL 42:2001:2077
+ZTL Pulaski 43 High:Atlanta Center:132.970:Z43:C:ATL:CTR:Pulaski High:ZTL 43:2001:2077
+ZTL Shine 44 Low:Atlanta Center:132.620:Z44:C:ATL:CTR:Shine Low:ZTL 44:2001:2077
+ZTL Bristol 45 Low:Atlanta Center:127.850:Z45:C:ATL:CTR:Bristol Low:ZTL 45:2001:2077
+ZTL Moped 47 Low:Atlanta Center:134.550:Z47:C:ATL:CTR:Moped Low:ZTL 47:2001:2077
+ZTL Wilkes 48 Ultra Low:Atlanta Center:125.150:Z48:C:ATL:CTR:Wilkes Ultra Low:ZTL 48:2001:2077
+
+;Area 2
+ZTL Leeon 29 Low:Atlanta Center:128.800:Z29:C:ATL:CTR:Leeon Low:ZTL 29:2001:2077
+ZTL Locas 30 Low:Atlanta Center:133.150:Z30:C:ATL:CTR:Locas Low:ZTL 30:2001:2077
+ZTL Unarm 31 Low:Atlanta Center:135.350:Z31:C:ATL:CTR:Unarm Low:ZTL 31:2001:2077
+ZTL Spartanburg 32 High:Atlanta Center:125.620:Z32:C:ATL:CTR:Spartanburg High:ZTL 32:2001:2077
+ZTL Charlotte 33 Hi:Atlanta Center:124.420:Z33:C:ATL:CTR:Charlotte High:ZTL 33:2001:2077
+ZTL Georgia 34 High:Atlanta Center:120.420:Z34:C:ATL:CTR:Georgia High:ZTL 34:2001:2077
+ZTL High Rock 28 Ultra High:Atlanta Center:125.020:Z28:C:ATL:CTR:High Rock Ultra High:ZTL 28:2001:2077
+
+;Area 3
+ZTL East Departure 16 Low:Atlanta Center:134.200:Z16:C:ATL:CTR:East Departure Low:ZTL 16:2001:2077
+ZTL Logen 49 Low:Atlanta Center:121.350:Z49:C:ATL:CTR:Logen Low:ZTL 49:2001:2077
+ZTL Commerce 18 Ultra Low:Atlanta Center:134.800:Z18:C:ATL:CTR:Commerce Ultra Low:ZTL 18:2001:2077
+ZTL Lanier 50 High:Atlanta Center:124.370:Z50:C:ATL:CTR:Lanier High:ZTL 50:2001:2077
+ZTL Baden 15 Ultra High:Atlanta Center:126.770:Z15:C:ATL:CTR:Baden Ultra High:ZTL 15:2001:2077
+
+;Area 4
+ZTL Sinca 19 Low:Atlanta Center:123.950:Z19:C:ATL:CTR:Sinca Low:ZTL 19:2001:2077
+ZTL South Departure 21 Low:Atlanta Center:134.500:Z21:C:ATL:CTR:South Departure Low:ZTL 21:2001:2077
+ZTL Augusta 24 Low:Atlanta Center:128.100:Z24:C:ATL:CTR:Augusta Low:ZTL 24:2001:2077
+ZTL Dublin 20 High:Atlanta Center:126.420:Z20:C:ATL:CTR:Dublin High:ZTL 20:2001:2077
+ZTL Macon 22 High:Atlanta Center:119.370:Z22:C:ATL:CTR:Macon High:ZTL 22:2001:2077
+ZTL Clark Hill 23 Ultra High:Atlanta Center:124.320:Z23:C:ATL:CTR:Clark Hill Ultra High:ZTL 23:2001:2077
+ZTL Hampton 27 Ultra High:Atlanta Center:125.820:Z27:C:ATL:CTR:Hampton 27 Ultra High:ZTL 27:2001:2077
+
+;Area 5
+ZTL Tiroe 09 Low:Atlanta Center:120.450:Z09:C:ATL:CTR:Tiroe 09 Low:ZTL 09:2001:2077
+ZTL Birmingham 12 Low:Atlanta Center:127.300:Z12:C:ATL:CTR:Birmingham Low:ZTL 12:2001:2077
+ZTL Montgomery 13 Low:Atlanta Center:120.550:Z13:C:ATL:CTR:Montgomery Low:ZTL 13:2001:2077
+ZTL Maxwell 14 Low:Atlanta Center:132.250:Z14:C:ATL:CTR:Maxwell Low:ZTL 14:2001:2077
+ZTL LaGrange 10 High:Atlanta Center:125.570:Z10:C:ATL:CTR:LaGrange High:ZTL 10:2001:2077
+ZTL Monroeville 11 High:Atlanta Center:128.020:Z11:C:ATL:CTR:Monroeville High:ZTL 11:2001:2077
+ZTL Martin Lake 08 Ultra High:Atlanta Center:125.870:Z08:C:ATL:CTR:Martin Lake Ultra High:ZTL 08:2001:2077
+
+;Area 6
+ZTL West Departure 04 Low:Atlanta Center:134.950:Z04:C:ATL:CTR:West Departure Low:ZTL 04:2001:2077
+ZTL Dalas 05 Low:Atlanta Center:132.050:Z05:C:ATL:CTR:Dalas Low:ZTL 05:2001:2077
+ZTL Rome 01 Ultra Low:Atlanta Center:135.170:Z01:C:ATL:CTR:Rome Ultra Low:ZTL 01:2001:2077
+ZTL Gadsden 03 High:Atlanta Center:128.720:Z03:C:ATL:CTR:Gadsden High:ZTL 03:2001:2077
+ZTL Rocket 06 Ultra High:Atlanta Center:133.170:Z06:C:ATL:CTR:Rocket Ultra High:ZTL 06:2001:2077
+ZTL Gunter 02 Ultra High:Atlanta Center:126.820:Z02:C:ATL:CTR:Gunter Ultra High:ZTL 02:2001:2077
+
+;Area 7
+ZTL North Departure 38 Low:Atlanta Center:133.100:Z38:C:ATL:CTR:North Departure Low:ZTL 38:2001:2077
+ZTL Hinch Mountain 41 Low:Atlanta Center:133.600:Z41:C:ATL:CTR:Hinch Mountain Low:ZTL 41:2001:2077
+ZTL Crossville 37 High:Atlanta Center:126.670:Z37:C:ATL:CTR:Crossville High:ZTL 37:2001:2077
+ZTL Burne 39 High:Atlanta Center:125.920:Z39:C:ATL:CTR:Burne High:ZTL 39:2001:2077
+ZTL Allatoona 36 Ultra High:Atlanta Center:124.870:Z36:C:ATL:CTR:Allatoona Ultra High:ZTL 36:2001:2077
+ZTL Blue Ridge 40 Ultra High:Atlanta Center:134.070:Z40:C:ATL:CTR:Blue Ridge Ultra High:ZTL 40:2001:2077
+
+***************************
+;ZAB ARTCC
+***************************
+; ZAB Combined ABQ_CTR
+ZB - ZAB:Albuquerque Center:127.850:AZB:C:ABQ:CTR:ZAB:ZB:0701:0777
+;
+; ZAB Northwest Area
+;
+NW - NORWEST:Albuquerque Center:128.450:ANW:C:ABQ:CTR:ZAB:NW:0701:0777
+38 - MIALH:Albuquerque Center:132.900:A38:C:ABQ:CTR:ZAB:38:0701:0777
+43 - DRKLO:Albuquerque Center:128.450:A43:C:ABQ:CTR:ZAB:43:0701:0777
+;
+;ZAB Northeast Area
+NE - NOREST:Albuquerque Center:127.850:ANE:C:ABQ:CTR:ZAB:NE:0701:0777
+;
+; ZAB North Area
+;
+ZN - North:Albuquerque Center:127.850:AZN:C:ABQ:CTR:ZAB:ZN:0701:0777
+16 - SANLH:Albuquerque Center:132.800:A16:C:ABQ:CTR:ZAB:16:0701:0777
+17 - LAVLO:Albuquerque Center:124.320:A17:C:ABQ:CTR:ZAB:17:0701:0777
+;
+; ZAB South Area
+ZS - SOUTH:Albuquerque Center:126.450:AZS:C:ABQ:CTR:ZAB:ZS:0701:0777
+;
+; ZAB East Area
+;
+ZE _ EAST:Albuquerque Center:127.850:AZE:C:ABQ:CTR:ZAB:ZE:0701:0777
+15 - BDGLO:Albuquerque Center:127.850:A15:C:ABQ:CTR:ZAB:15:0701:0777
+97 - AMAHI:Albuquerque Center:134.750:A97:C:ABQ:CTR:ZAB:97:0701:0777
+;
+;ZAB West Area
+ZW - WEST:Albuquerque Center:128.450:AZW:C:ABQ:CTR:ZAB:ZW:0701:0777
+;
+; ZAB Southeast Area
+;
+SE - SOUEST:Albuquerque Center:120.970:ASE:C:ABQ:CTR:ZAB:SE:0701:0777
+19 - DMNLO:Albuquerque Center:128.200:A19:C:ABQ:CTR:ZAB:19:0701:0777
+63 - ELPHI:Albuquerque Center:120.970:A63:C:ABQ:CTR:ZAB:63:0701:0777
+;
+;
+; ZAB Southwest Area
+;
+SW - SOUWST:Albuquerque Center:126.450:ASW:C:ABQ:CTR:ZAB:SW:0701:0777
+42 - GBNLO:Albuquerque Center:126.450:A42:C:ABQ:CTR:ZAB:42:0701:0777
+46 - TUSLO:Albuquerque Center:125.400:A46:C:ABQ:CTR:ZAB:46:0701:0777
+
+**************************
+;ZMA ARTCC
+**************************
+MIA_02_CTR:Miami Center:119.820:U02:C:MIA:CTR:MIA:CTR:4501:4777
+    MIA_02_CTR:Miami Center:119.825:U02:C:MIA:CTR:MIA:CTR:4501:4777
+MIA_04_CTR:Miami Center:132.250:U04:C:MIA:CTR:MIA:CTR:4501:4777
+MIA_05_CTR:Miami Center:132.700:U05:C:MIA:CTR:MIA:CTR:4501:4777
+MIA_06_CTR:Miami Center:132.200:U06:C:MIA:CTR:MIA:CTR:4501:4777
+MIA_08_CTR:Miami Center:133.900:U08:C:MIA:CTR:MIA:CTR:4501:4777
+MIA_20_CTR:Miami Center:132.150:U20:C:MIA:CTR:MIA:CTR:4501:4777
+MIA_21_CTR:Miami Center:133.400:U21:C:MIA:CTR:MIA:CTR:4501:4777
+MIA_25_CTR:Miami Center:128.220:U25:C:MIA:CTR:MIA:CTR:4501:4777
+    MIA_25_CTR:Miami Center:128.225:U25:C:MIA:CTR:MIA:CTR:4501:4777
+MIA_26_CTR:Miami Center:124.700:U26:C:MIA:CTR:MIA:CTR:4501:4777
+	MIA_26_CTR:Miami Center:124.750:U26:C:MIA:CTR:MIA:CTR:4501:4777
+MIA_40_CTR:Miami Center:126.320:U40:C:MIA:CTR:MIA:CTR:4501:4777
+    MIA_40_CTR:Miami Center:126.325:U40:C:MIA:CTR:MIA:CTR:4501:4777
+MIA_41_CTR:Miami Center:135.600:U41:C:MIA:CTR:MIA:CTR:4501:4777
+MIA_42_CTR:Miami Center:133.850:U42:C:MIA:CTR:MIA:CTR:4501:4777
+MIA_46_CTR:Miami Center:135.170:U46:C:MIA:CTR:MIA:CTR:4501:4777
+    MIA_46_CTR:Miami Center:135.175:U46:C:MIA:CTR:MIA:CTR:4501:4777
+MIA_64_CTR:Miami Center:126.520:U64:C:MIA:CTR:MIA:CTR:4501:4777
+    MIA_64_CTR:Miami Center:126.525:U64:C:MIA:CTR:MIA:CTR:4501:4777
+MIA_TM_CTR:Miami TMU:199.998:UTM:C:MIA:CTR:MIA:CTR:4501:4777
+
+; MIAMI OCEANIC
+ZMO_43_CTR:Miami Oceanic:123.770:U43:Z:ZMO:CTR:ZMO:CTR:4701:4777
+    ZMO_43_CTR:Miami Oceanic:123.775:U43:Z:ZMO:CTR:ZMO:CTR:4701:4777
+ZMO_58_CTR:Miami Oceanic:126.270:U58:Z:ZMO:CTR:ZMO:CTR:4701:4777
+    ZMO_58_CTR:Miami Oceanic:126.275:U58:Z:ZMO:CTR:ZMO:CTR:4701:4777
+ZMO_59_CTR:Miami Oceanic:134.800:U59:Z:ZMO:CTR:ZMO:CTR:4701:4777
+ZMO_62_CTR:Miami Oceanic:132.300:U62:Z:ZMO:CTR:ZMO:CTR:4701:4777
+ZMO_63_CTR:Miami Oceanic:135.200:U63:Z:ZMO:CTR:ZMO:CTR:4701:4777
+
+
+; Republica de Mexico
+; Centro Monterrey (10'S)
+;
+Centro Monterrey1:Centro Monterrey:124.500:Y11:C:MMTY:CTR:MMTY1:CTR:1701:1777
+Centro Monterrey2:Centro Monterrey:127.400:Y12:C:MMTY:CTR:MMTY2:CTR:1701:1777
+Centro Monterrey3:Centro Monterrey:125.600:Y13:C:MMTY:CTR:MMTY3:CTR:1701:1777
+;
+; Centro Merida (30'S)
+Centro Merida1:Centro Merida/1:128.300:D31:C:MMID:CTR:MMID1:CTR:7001:7077
+Centro Merida2:Centro Merida/2:125.800:D32:C:MMID:CTR:MMID2:CTR:7001:7077
+Centro Merida3:Centro Merida/3:125.200:D33:C:MMID:CTR:MMID3:CTR:7001:7077
+Centro Merida4:Centro Merida/4:128.200:D34:C:MMID:CTR:MMID4:CTR:7001:7077
+Centro Merida5:Centro Merida/5:123.750:D35:C:MMID:CTR:MMID5:CTR:7001:7077
+
 ARTCC boundary:_CTR:
 ARTCC low boundary:AUSTIN:
 ARTCC low boundary:CORPUS_CHIRSTI:
