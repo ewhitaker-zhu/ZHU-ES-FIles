@@ -1,4 +1,4 @@
-DisplayTypeName:
+DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:ZHU\Data\Sectors\ZHU.sct
@@ -19,4 +19,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:0.000000:0.000000:0.000000:0.000000
+WINDOWAREA:27.949928:-99.601832:32.018938:-91.081052
