@@ -96,7 +96,7 @@ m_SupMessageLevel:3
 m_AtisMessageLevel:2
 m_PrivateMessageLevel:2
 m_FreqMessageLevel:1
-m_MetricUnits:0
+m_MericUnits:0
 m_ShowCorrelatedInFpList:0
 m_ShowUncorrelatedInFpList:0
 m_ShowVFRInFpList:1

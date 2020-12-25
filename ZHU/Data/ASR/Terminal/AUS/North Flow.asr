@@ -3,7 +3,7 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:ZHU\Data\Sectors\ZHU.sct
 SECTORTITLE:ZHU.sct
-Stars:* North Flow (Rwy 35L/35R):
+Stars:* North Flow (Rwy:
 SHOWC:1
 SHOWSB:0
 BELOW:0

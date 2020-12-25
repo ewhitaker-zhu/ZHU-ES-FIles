@@ -22,7 +22,7 @@ Settings	SettingsfileSCREEN	ZHU\Data\Settings\I90\I90_SCREEN.txt
 Settings	SettingsfileCONFLICT	ZHU\Data\Settings\I90\I90_CA.txt
 Settings	SettingsfileVCCS	ZHU\Data\Settings\GLOBAL_VCCS.txt
 Settings	SettingsfilePILOTING	ZHU\Data\Settings\I90\I90_PL.txt
-RecentFiles	Recent2	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\AUS\South Flow.asr
+RecentFiles	Recent2	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\AUS\North Flow.asr
 RecentFiles	Recent3	E:\ZHU-ES-FIles\ZHU\I90\MSY Terminal.asr
 RecentFiles	Recent4	E:\ZHU-ES-FIles\ZHU\Data\ASR\I90\IAH W HOU 13s.asr
 RecentFiles	Recent5	E:\ZHU-ES-FIles\ZHU\Data\ASR\I90\IAH W HOU 4.asr
@@ -36,6 +36,6 @@ RecentFiles	Recent8	E:\ZHU-ES-FIles\ZHU\Data\ASR\I90\IAH E HOU 13s.asr
 RecentFiles	Recent9	E:\ZHU-ES-FIles\ZHU\Data\ASR\I90\IAH E HOU 4.asr
 RecentFiles	Recent10	E:\ZHU-ES-FIles\ZHU\Data\ASR\I90\IAH W HOU 22.asr
 RecentFiles	Recent11	E:\ZHU-ES-FIles\ZHU\Data\ASR\I90\IAH W HOU 31s.asr
-RecentFiles	Recent1	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\AUS\North Flow.asr
+RecentFiles	Recent1	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\AUS\South Flow.asr
 ASRFastKeys	1	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\AUS\North Flow.asr
 ASRFastKeys	2	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\AUS\South Flow.asr
