@@ -1,7 +1,14 @@
-vZNY Alias File
-Version: 1905.0
-File updated: April 19th, 2019
-By: Amin Abrahem
+vZHU ALIAS FILE V7.2005.1
+
+Revision History
+================
+- v7.0 - 11/07/2018 - Updated by Ryan Barnes
+- v6.0 - 02/07/2018 - Updated by Evan Bradley
+- v5.0 - 03/16/2017 - Updated by Evan Bradley
+- v4.0 - 08/21/2016 - Updated by Barrett
+- v3.0 - 12/26/2013 - Updated by Carson Page
+- v2.0 - 07/12/2011 - Updated by Mike Burke
+- v1.0 - 04/27/2010 - Compiled by Brian Derx and Jason Sutton
 
 .open $radioname() is now open 
 .close $radioname($1) is ceasing operation no further ATC available monitor unicom 122.8
