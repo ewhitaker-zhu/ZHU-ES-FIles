@@ -22,26 +22,26 @@ Settings	SettingsfileSCREEN	ZHU\Data\Settings\I90\I90_SCREEN.txt
 Settings	SettingsfileCONFLICT	ZHU\Data\Settings\I90\I90_CA.txt
 Settings	SettingsfileVCCS	ZHU\Data\Settings\GLOBAL_VCCS.txt
 Settings	SettingsfilePILOTING	ZHU\Data\Settings\I90\I90_PL.txt
-RecentFiles	Recent2	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\I90\IAH W HOU 4.asr
-RecentFiles	Recent3	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\I90\IAH E HOU 22.asr
-RecentFiles	Recent4	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\I90\IAH E HOU 13s.asr
-RecentFiles	Recent5	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\I90\IAH E HOU 4.asr
-RecentFiles	Recent6	E:\ZHU-ES-FIles\ZHU\Data\ASR\I90\IAH W HOU 13s.asr
+RecentFiles	Recent2	ZHU\Data\ASR\Terminal\I90\IAH W HOU 4.asr
+RecentFiles	Recent3	ZHU\Data\ASR\Terminal\I90\IAH E HOU 22.asr
+RecentFiles	Recent4	ZHU\Data\ASR\Terminal\I90\IAH E HOU 13s.asr
+RecentFiles	Recent5	ZHU\Data\ASR\Terminal\I90\IAH E HOU 4.asr
+RecentFiles	Recent6	ZHU\Data\ASR\I90\IAH W HOU 13s.asr
 Plugins	Plugin0	ZHU\Data\Plugins\DiscordEuroscope\DiscordEuroscope.dll
 Plugins	Plugin1	ZHU\Data\Plugins\vSMR\vSMR.dll
 Plugins	Plugin1Display0	SMR radar display
 Plugins	Plugin2	ZHU\Data\Plugins\OpenURLPlugIn.dll
-RecentFiles	Recent7	E:\ZHU-ES-FIles\ZHU\Data\ASR\I90\IAH W HOU 4.asr
-RecentFiles	Recent8	E:\ZHU-ES-FIles\ZHU\Data\ASR\I90\IAH E HOU 31s.asr
-RecentFiles	Recent9	E:\ZHU-ES-FIles\ZHU\Data\ASR\I90\IAH E HOU 22.asr
-RecentFiles	Recent10	E:\ZHU-ES-FIles\ZHU\Data\ASR\I90\IAH E HOU 13s.asr
-RecentFiles	Recent11	E:\ZHU-ES-FIles\ZHU\Data\ASR\I90\IAH E HOU 4.asr
-RecentFiles	Recent1	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\I90\IAH W HOU 13s.asr
-ASRFastKeys	1	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\I90\IAH E HOU 4.asr
-ASRFastKeys	2	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\I90\IAH E HOU 13s.asr
-ASRFastKeys	3	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\I90\IAH E HOU 22.asr
-ASRFastKeys	4	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\I90\IAH E HOU 31s.asr
-ASRFastKeys	5	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\I90\IAH W HOU 4.asr
-ASRFastKeys	6	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\I90\IAH W HOU 13s.asr
-ASRFastKeys	7	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\I90\IAH W HOU 22.asr
-ASRFastKeys	8	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\I90\IAH W HOU 31s.asr
+RecentFiles	Recent7	ZHU\Data\ASR\I90\IAH W HOU 4.asr
+RecentFiles	Recent8	ZHU\Data\ASR\I90\IAH E HOU 31s.asr
+RecentFiles	Recent9	ZHU\Data\ASR\I90\IAH E HOU 22.asr
+RecentFiles	Recent10	ZHU\Data\ASR\I90\IAH E HOU 13s.asr
+RecentFiles	Recent11	ZHU\Data\ASR\I90\IAH E HOU 4.asr
+RecentFiles	Recent1	ZHU\Data\ASR\Terminal\I90\IAH W HOU 13s.asr
+ASRFastKeys	1	ZHU\Data\ASR\Terminal\I90\IAH E HOU 4.asr
+ASRFastKeys	2	ZHU\Data\ASR\Terminal\I90\IAH E HOU 13s.asr
+ASRFastKeys	3	ZHU\Data\ASR\Terminal\I90\IAH E HOU 22.asr
+ASRFastKeys	4	ZHU\Data\ASR\Terminal\I90\IAH E HOU 31s.asr
+ASRFastKeys	5	ZHU\Data\ASR\Terminal\I90\IAH W HOU 4.asr
+ASRFastKeys	6	ZHU\Data\ASR\Terminal\I90\IAH W HOU 13s.asr
+ASRFastKeys	7	ZHU\Data\ASR\Terminal\I90\IAH W HOU 22.asr
+ASRFastKeys	8	ZHU\Data\ASR\Terminal\I90\IAH W HOU 31s.asr
